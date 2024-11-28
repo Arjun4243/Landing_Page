@@ -51,7 +51,7 @@ html {
     }
 
     .navMenu {
-        width: 100%;
+        width: 100vw;
         position: fixed;
         flex-direction: column;
         align-items: center;
